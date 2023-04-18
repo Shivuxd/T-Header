@@ -12,7 +12,9 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═════╝ ╚══════╝╚═════╝ 
 
-                                                                           
+   IF UH HAVE ANY PROBABLY THEN CONTACT WITH ME
+
+https://www.facebook.com/profile.php?id=100091281373125&mibextid=ZbWKwL                                                                        
 
 
 
