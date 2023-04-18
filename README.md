@@ -1,17 +1,14 @@
 # T-Header script
 This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX. 
-## Preview of after setup completed..
-<img src="https://www.google.com/search?q=Hacker+gif+photo&oq=Hacker+gif+photo&aqs=chrome..69i57j0i22i30l5.13189j0j1&client=ms-android-xiaomi&sourceid=chrome-mobile&ie=UTF-8#imgrc=SIDBtbgIsTyBAM&lnspr=W10=" width="200" hight="220">
-img src=" https://giphy.com/gifs/fmkYSBlJt3XjNF6p9c" width="200" hight=Aa"220">
-## This script contains popular features
 
-- [x] oh-my-zsh themes
-- [x] zsh-autosuggest-command plugins
-- [x] zsh-syntax-highlighting plugins
-- [x] termux-banner
-- [x] PS1 with custom trim path indicator
-- [x] Custom prompt cursor
-- [ ] other (git prompt)
+
+
+
+
+
+
+
+
 
 
 
